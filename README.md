@@ -1,5 +1,12 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
+</div>
 
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/topdev0729/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=rebiss&color=DE002D">
+    </a>
+</div>
 
 <a href="https://github.com/better-think?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=better-think&show_icons=true&hide_border=true&hide_rank=true&card_width=100" width="500px" />
