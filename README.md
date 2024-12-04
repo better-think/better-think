@@ -79,14 +79,6 @@
         <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
         <img src="https://img.shields.io/badge/Bitcoin-blue" />
       </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
-       <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
-       <img src="https://img.shields.io/badge/Figma-blue" /> 
-       <img src="https://img.shields.io/badge/Blender-blue" /> 
-       <img src="https://img.shields.io/badge/WebGL-blue" /> 
-       <img src="https://img.shields.io/badge/Three.js-blue" /> 
-      </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/MySQL-blue" /> 
         <img src="https://img.shields.io/badge/NoSQL-blue" /> 
