@@ -65,7 +65,6 @@
  <table>
     <tr>
       <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Design<b></td>
       <td valign="center" width="100px"><b>DataBase<b></td>
     </tr>
     <tr>
